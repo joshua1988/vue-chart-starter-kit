@@ -15,10 +15,10 @@ npm run build
 ```
 
 ## Libraries
-- vue : ^2.4.4
-- vue-router : ^3.0.1
-- vue-chartjs : ^3.0.0
-- chart.js : ^2.7.1
-- element-ui : ^2.0.2
+- vue : 2.4.4
+- vue-router : 3.0.1
+- vue-chartjs : 3.0.0
+- chart.js : 2.7.1
+- element-ui : 2.0.2
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
