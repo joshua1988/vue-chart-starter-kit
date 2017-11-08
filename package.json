@@ -23,6 +23,7 @@
     "cross-env": "^5.0.5",
     "css-loader": "^0.28.7",
     "file-loader": "^1.1.4",
+    "postcss-loader": "^2.0.8",
     "style-loader": "^0.19.0",
     "url-loader": "^0.6.2",
     "vue-loader": "^13.0.5",
